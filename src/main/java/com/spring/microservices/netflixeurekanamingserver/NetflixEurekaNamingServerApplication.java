@@ -13,3 +13,4 @@ public class NetflixEurekaNamingServerApplication {
 	}
 }
 // added a comment
+// added a new comment on the comment-changes branch
